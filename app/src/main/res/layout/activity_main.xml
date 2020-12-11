@@ -24,7 +24,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/singUpBtn"
+        android:id="@+id/signUpBtn"
         android:layout_width="0dp"
         android:layout_height="70dp"
         android:layout_marginTop="20dp"
@@ -70,6 +70,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/singUpBtn"
+        app:layout_constraintTop_toBottomOf="@+id/signUpBtn"
         app:layout_constraintVertical_bias="0.957" />
 </androidx.constraintlayout.widget.ConstraintLayout>
